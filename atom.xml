@@ -4,7 +4,7 @@
   <title><![CDATA[笔记]]></title>
   <link href="http://CenterY.github.io/atom.xml" rel="self"/>
   <link href="http://CenterY.github.io/"/>
-  <updated>2014-09-27T01:26:56+08:00</updated>
+  <updated>2014-09-27T01:32:22+08:00</updated>
   <id>http://CenterY.github.io/</id>
   <author>
     <name><![CDATA[韩保玉]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Title]]></title>
+    <link href="http://CenterY.github.io/blog/2014/09/27/title/"/>
+    <updated>2014-09-27T01:32:02+08:00</updated>
+    <id>http://CenterY.github.io/blog/2014/09/27/title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
